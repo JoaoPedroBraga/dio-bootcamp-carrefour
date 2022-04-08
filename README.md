@@ -1,4 +1,4 @@
-# Anotações do Bootcamp Carrefour Web Developer
+# Anotações do Bootcamp Carrefour Web Developer ✒️
 Neste repositório estará as minhas anotações de tudo que aprendi durantes o bootcamp
 
 
