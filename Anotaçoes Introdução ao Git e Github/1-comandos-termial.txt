@@ -1,0 +1,27 @@
+Introdução ao Git
+
+Primeiro aprendemos os comandos básicos de um terminal. Nas minhas anotações estarão baseada 
+para o cmd, terminal do windows.
+
+Segue os comandos que mais usaremos:
+
+dir => Listar Pastas
+
+cd => Abrir Patas
+
+
+cd.. => Voltar uma pasta
+
+cls => Limpar tela
+
+clicar botao Tab => Completa o que estiver escrevendo
+
+mkdir nome pasta => Criar pasta
+
+echo hello > hello.txt => criando algo dentro de um arquivo(e criando arquivo)
+
+del nome da pasta => deletar o que tem dentro da pasta
+
+seta para cima => volta os comandos ja usado
+
+rmdir nome pasta /s /q => Deleta Pasta

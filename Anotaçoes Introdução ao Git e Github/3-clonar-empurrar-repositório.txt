@@ -1,0 +1,21 @@
+Para Clonar Repositório Git Hub
+
+0º Cria o repositorio no github.
+
+1º copiar o link de clone no github.
+
+2º Abrir Git bash e abrir a pasta que queremos colocar o clone (com cd).
+
+3º Colocar git clone e o que foi copiado no github.
+
+4º Depois de baixado pode adicionar, excluir. Editar todo o arquivo.
+
+
+
+=Mandar o arquivo de voltar ao github
+
+1º Adicionar as atualizações para fazer o commit com o comando git add . ou git add *.
+
+2º Dar Commit para o arquivo com git commit -m "mensagem que queremos deixar".
+
+3º Enviar todas as atualizações para a o Github com git push origin main.

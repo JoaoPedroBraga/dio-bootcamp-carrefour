@@ -1,0 +1,17 @@
+Git
+
+Aqui vai ter algumas informações sobre o Git
+
+Algun Objetos do Git
+
+Blob => Cada arquivo no Git é armazenado como um objeto blob.
+Tree => Armazena blobs.
+Commit => executa o seguinte objeto de commit num pseudo código será gerado.
+
+Principais Comandos Git
+
+git init => Iniciar o Git
+git add => Adicionar as blobs
+git commit => Juntar todas blobs
+git status => saber estado do arquivo
+git push origin main => empurrar codigo no github
